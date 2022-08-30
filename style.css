@@ -11,6 +11,7 @@
 
 h1 {
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
     font-variant: small-caps;
@@ -20,10 +21,15 @@ h1 {
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+=======
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+>>>>>>> 9a6f0402cc57399b164d16a9528a0cd8e3f36a94
 }
 
 h3 {
     text-align: center;
+<<<<<<< HEAD
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -35,6 +41,8 @@ h4  {
 
 strong  {
     color: red;
+=======
+>>>>>>> 9a6f0402cc57399b164d16a9528a0cd8e3f36a94
 }
 
 div.container {
@@ -42,5 +50,10 @@ div.container {
 }
 
 ul.links {
+<<<<<<< HEAD
     display: flexbox;
+=======
+    display: inline-block;
+    text-align: left;
+>>>>>>> 9a6f0402cc57399b164d16a9528a0cd8e3f36a94
 }
